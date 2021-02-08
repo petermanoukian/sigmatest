@@ -1,0 +1,140 @@
+.layer7 
+{
+	width:100%;float:left;color:#FFF;background-image:url(../img/layer7/bg.jpg);background-repeat:no-repeat;
+	background-size:100%;background-position:center;height:auto;min-height:463px;
+}
+
+.layer7down
+{
+	/*1460 1920 */
+	width:76%;margin-top:17%;margin-left:auto;margin-right:auto;text-align:center;	
+}
+
+.layer7left , .layer7right
+{
+	text-align:center;float:left;
+}
+
+.layer7left
+{
+	/*480 1460*/
+	width:32%;margin-left:2%;
+}
+.layer7right
+{
+	/*600 400 1460*/
+	width:41%;margin-left:23%;
+}
+
+@media all and (min-width: 1px) and (max-width: 950px) 
+{
+	.layer7left
+	{
+		/*480 1460*/
+		width:92%;margin-left:3%;
+	}
+	.layer7right
+	{
+		/*600 400 1460*/
+		width:92%;margin-left:3%;
+	}
+
+}
+
+@media all and (min-width: 1000px) and (max-width: 1100px) 
+{
+	.layer7 
+	{
+		min-height:443px;
+	}
+	
+	.layer7down
+	{
+		width:76%;margin-top:20%;
+	}
+	
+	
+	
+}
+@media all and (min-width: 1000px) and (max-width: 1100px) 
+{
+	.layer7 
+	{
+		min-height:373px;
+	}
+	.layer7down
+	{
+		width:76%;margin-top:16%;
+	}
+}
+
+@media all and (min-width: 900px) and (max-width: 1000px) 
+{
+	.layer7 
+	{
+		min-height:323px;
+	}
+	.layer7down
+	{
+		width:76%;margin-top:13%;
+	}
+}
+
+@media all and (min-width: 800px) and (max-width: 900px) 
+{
+	.layer7 
+	{
+		min-height:353px;
+	}
+	.layer7down
+	{
+		width:76%;margin-top:14%;
+	}
+}
+
+
+@media all and (min-width: 600px) and (max-width: 800px) 
+{
+	.layer7 
+	{
+		min-height:403px;background-size:cover;
+	}
+	.layer7down
+	{
+		width:76%;margin-top:20%;
+	}
+}
+
+@media all and (min-width: 500px) and (max-width: 600px) 
+{
+	.layer7 
+	{
+		min-height:453px;background-size:cover;
+	}
+	.layer7down
+	{
+		width:76%;margin-top:20%;
+	}
+}
+@media all and (min-width: 450px) and (max-width: 500px) 
+{
+	.layer7 
+	{
+		min-height:403px;background-size:cover;
+	}
+	.layer7down
+	{
+		width:76%;margin-top:18%;
+	}
+}
+@media all and (min-width: 1px) and (max-width: 450px) 
+{
+	.layer7 
+	{
+		min-height:403px;background-size:cover;
+	}
+	.layer7down
+	{
+		width:76%;margin-top:16%;
+	}
+}

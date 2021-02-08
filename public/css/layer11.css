@@ -1,0 +1,174 @@
+.layer11
+{
+	background-color:#fff;color:#000;padding-bottom:7%;width:100%;padding-bottom:3%;
+}
+.layer11-up , .layer11down
+{
+	/*1665 1920 */
+	text-align:center;margin-left:auto;margin-right:auto;width:87%;
+}
+
+.layer11down
+{
+	margin-top:50px;
+}
+.layer11left
+{
+	/*770 1665*/
+	text-align:center;width:44%;margin-top:10%;float:left;margin-right:2%;
+}
+.layer11right
+{
+	text-align:center;width:53%;float:left;
+}
+
+.header11-1, .header11-2
+{
+	font-weight:600;
+}
+
+
+.header11-1
+{
+	font-size:35px;
+}
+.header11-2
+{
+	font-size:30px;
+}
+
+ @media all and (min-width: 1200px) and (max-width: 1300px) 
+{
+	.header11-1
+	{
+		font-size:33px;
+	}
+	.header11-2
+	{
+		font-size:28px;
+	}
+
+}
+ @media all and (min-width: 1100px) and (max-width: 1200px) 
+{
+	.header11-1
+	{
+		font-size:32px;
+	}
+	.header11-2
+	{
+		font-size:27px;
+	}
+
+}
+
+ @media all and (min-width: 1000px) and (max-width: 1100px) 
+{
+	.header11-1
+	{
+		font-size:31px;
+	}
+	.header11-2
+	{
+		font-size:27px;
+	}
+
+}
+
+ @media all and (min-width: 900px) and (max-width: 1000px) 
+{
+	.header11-1
+	{
+		font-size:30px;
+	}
+	.header11-2
+	{
+		font-size:26px;
+	}
+
+}
+ @media all and (min-width: 800px) and (max-width: 900px) 
+{
+
+	.header11-1
+	{
+		font-size:30px;
+	}
+	.header11-2
+	{
+		font-size:26px;
+	}
+}
+
+ @media all and (min-width: 700px) and (max-width: 800px) 
+{
+
+	.header11-1
+	{
+		font-size:29px;
+	}
+	.header11-2
+	{
+		font-size:25px;
+	}
+}
+
+ @media all and (min-width: 600px) and (max-width: 700px) 
+{
+
+	.header11-1
+	{
+		font-size:28px;
+	}
+	.header11-2
+	{
+		font-size:24px;
+	}
+}
+
+ @media all and (min-width: 500px) and (max-width: 600px) 
+{
+
+	.header11-1
+	{
+		font-size:27px;
+	}
+	.header11-2
+	{
+		font-size:23px;
+	}
+}
+ @media all and (min-width: 1px) and (max-width: 500px) 
+{
+
+	.header11-1
+	{
+		font-size:26px;
+	}
+	.header11-2
+	{
+		font-size:22px;
+	}
+}
+
+
+
+
+ @media all and (min-width: 1px) and (max-width: 800px) 
+{
+	.layer11left
+	{
+		width:94%;margin-top:20px;
+	}
+	
+	.layer11down
+	{
+		margin-top:10px;
+	}
+		
+	.layer11right
+	{
+		center;width:94%;
+	}
+
+}

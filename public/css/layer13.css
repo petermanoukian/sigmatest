@@ -1,0 +1,41 @@
+.layer13
+{
+	width:100%;float:left;color:#fff;background-color:#1993d6;padding-top:62px;padding-bottom:15px;
+	text-align:center;magin-bottom:0px;
+}
+
+.layer13-div
+{
+	/*1652 1920 */
+	width:86%;margin-left:auto;margin-right:auto;text-align:left;clear:both;margin-top:13px;
+}
+
+.layer13header-1 , .layer13header-2
+{
+	font-size:30px;font-weight:600;width:100%;display:inline-block;
+}
+
+.layer13header-1
+{
+	margin-bottom:27px;
+}
+
+.layer13header-2
+{
+	margin-bottom:15px;
+}
+.width85layer13
+{
+	width:85%;font-size:17px;
+}
+
+.layer13-down
+{
+	font-size:19px;margin-top:5px;
+}
+
+.layer13-down a
+{
+	font-size:inherit;color:inherit;font-family:inherit;
+	
+}

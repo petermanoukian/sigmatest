@@ -1,0 +1,47 @@
+.layer3
+{
+	background-color:#fff;color:#000;
+}
+
+.layer3left , .layer3mid
+{
+	display:inline-block;
+}
+
+.layer3left
+{
+	/*183 1920 */ 
+	float:left;width:9.53%;
+}
+
+.layer3mid
+{
+	/*1650 1920 */
+	width:86%;padding-top:80px;
+}
+
+.layer3mid-2
+{
+	width:100%;padding-top:50px;
+
+}
+
+.layer3mid-2left , .layer3mid-2right
+{
+	display:inline-block;
+}
+
+.layer3mid-2left
+{
+	/*900  1650 */
+	width:55%;
+}
+
+.layer3mid-2right
+{
+	
+	width:45%;
+}
+
+
+
